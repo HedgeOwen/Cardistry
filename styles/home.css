@@ -1,0 +1,39 @@
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #1d88ec;
+    text-shadow: 3px 3px 1px rgb(161, 186, 255);
+    text-align: center;
+  }
+  
+
+img {
+    height: 300px;
+    width: 540px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 3ch;
+}
+
+p {
+    background-color: rgb(92, 136, 255);
+    width: 500px;
+    margin: 10px auto;
+    padding: 5px 20px 5px 20px;
+    border: 2px black;
+    border-radius: 2ch;
+    color: white;
+}
+
+html {
+    background-color: aliceblue;
+}
+
+body {
+    width: 600px;
+    background-color: rgb(241, 255, 181);
+    margin: 10px auto;
+    padding: 20px;
+    border: 2px solid rgb(139, 157, 190);
+    border-radius:  3ch;
+}
